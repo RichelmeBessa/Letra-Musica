@@ -1,29 +1,6 @@
-body{
-    background-color: blueviolet;
+body, .container{
+    background-color: red;
 }
-#con1{
-    background-color: chocolate;
-}
-#con2 {
-    background-color:#ffa500 ;
-}
-.container {
-    background-color: white;
-    margin-top:15px;
-    padding: 10px;
-}
-#tr1 {
-    background-color:#d3d3d3;
-}
-#inputEmail3 {
-    background-color: #d3d3d3;
-}
-footer#rodape {
-    clear: both;
-    border-top: 1px solid #606060;
-    background-color: white;
-    
-}
-footer#rodape p{
-    text-align: center;
+.cher {
+color: white;
 }
